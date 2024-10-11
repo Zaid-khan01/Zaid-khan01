@@ -18,7 +18,7 @@
 <a href="https://twitter.com/@zaid_khan1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zaid_khan1123" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/zaid-khan-1123abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid khan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/zaid khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zaid khan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@zaid-khan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@zaid-khan01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Zaid_khan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@zaid-khan01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
